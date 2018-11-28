@@ -28,7 +28,8 @@
 
 3）对于新增和删除操作add和remove，LinedList比较占优势，因为ArrayList要移动数据。
 
-Java Map面试题汇总
+# Java Map面试题汇总
+
 1、常用的Map集合：HashMap、HashTable、LinkedHashMap、ConcurrentHashMap。
 
 2、Collection是List、Set父接口不是Map父接口。
@@ -53,7 +54,8 @@ Java Map面试题汇总
 
 12、HashSet和HashTree的区别：HashSet哈希表实现，数据是无序的，可以放入一个null值。TreeSet二差树实现，数据是自动排好序的，不允许放入null值。
 
-String经典面试题
+# String经典面试题
+
 1、String不是基本数据类型。
 
 2、String是final类型的，不可变。
