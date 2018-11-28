@@ -1,4 +1,4 @@
-#分布式缓存Redis+Memcached经典面试题和答案
+# 分布式缓存Redis+Memcached经典面试题和答案
 1.Redis相比memcached有哪些优势？
 ````
 (1) memcached所有的值均是简单的字符串，redis作为其替代者，支持更为丰富的数据类型
